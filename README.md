@@ -1,0 +1,2 @@
+# YesCoin-bot
+YesCoin clicker
